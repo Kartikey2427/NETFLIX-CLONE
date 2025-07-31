@@ -3,7 +3,7 @@
 Welcome to **Netflix Clone**, a full-stack streaming web app built with ReactJS for the frontend and Firebase for the backend. Inspired by the real Netflix interface, this project allows users to browse and manage movies seamlessly with real-time database interaction using Firestore.
 
 <h1 align="center"> 
-  <a href="https://your-deployed-url.vercel.app/"><strong>➥ Launch App 🚀</strong></a>
+  <a href="https://netflix-clone-ljcs.vercel.app/login"><strong>➥ Launch App 🚀</strong></a>
 </h1>
 
 ---
