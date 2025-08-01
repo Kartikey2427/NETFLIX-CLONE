@@ -10,8 +10,6 @@ Welcome to **Netflix Clone**, a full-stack streaming web app built with ReactJS 
 
 ## 📸 Screenshots
 
-> ✅ Include these in your actual GitHub `README.md` with correct image links
-
 <img src="https://github.com/user-attachments/assets/73ecc3c6-fa73-4364-9cd2-080d1db4732c" width="100%" alt="Landing Page" />
 
 ---
